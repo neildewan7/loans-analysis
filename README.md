@@ -22,6 +22,10 @@ This project explores and analyzes a real-world dataset of approved loan applica
 - **Visualization:** 
   - Used Plotly to create interactive scatterplots, histograms, and density plots to reveal important trends.
 
+## Demo
+
+👉 [**View Project Demo (nbviewer)**](https://nbviewer.org/github/neildewan7/loans-analysis/blob/main/cleaned_project.ipynb)
+
 ## Key Questions Explored
 
 - How does a borrower's debt-to-income ratio (DTI) influence their interest rate?
